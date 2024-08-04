@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imágenes centradas con texto en ángulo</title>
+    <link rel="stylesheet" href="sixcategories.component.css">
+</head>
+<body>
+
+  <button type="button" class="btn btn-success btn-lg btn-radius" (click)="get6RandomCategories()">GET 6 CATEGORIES</button>
+
+    <div class="container mt-5">
+      <div class="row">
+          <div class="col-md-4 d-flex justify-content-center">
+              <div class="image-container">
+                  <img src="assets/images/categoryEmpty.png" class="img-fluid" alt="Categoria 1">
+                  <div *ngIf="categories">
+                    <p>{{ categories[0].name }}</p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 d-flex justify-content-center">
+              <div class="image-container">
+                  <img src="assets/images/categoryEmpty.png" class="img-fluid" alt="Categoria 2">
+                  <div *ngIf="categories">
+                    <p>{{ categories[1].name }}</p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 d-flex justify-content-center">
+              <div class="image-container">
+                  <img src="assets/images/categoryEmpty.png" class="img-fluid" alt="Categoria 3">
+                  <div *ngIf="categories">
+                    <p>{{ categories[2].name }}</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <div class="row mt-3">
+          <div class="col-md-4 d-flex justify-content-center">
+              <div class="image-container">
+                  <img src="assets/images/categoryEmpty.png" class="img-fluid" alt="Categoria 4">
+                  <div *ngIf="categories">
+                    <p>{{ categories[3].name }}</p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 d-flex justify-content-center">
+              <div class="image-container">
+                  <img src="assets/images/categoryEmpty.png" class="img-fluid" alt="Categoria 5">
+                  <div *ngIf="categories">
+                    <p>{{ categories[4].name }}</p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 d-flex justify-content-center">
+              <div class="image-container">
+                  <img src="assets/images/categoryEmpty.png" class="img-fluid" alt="Categoria 6">
+                  <div *ngIf="categories">
+                    <p>{{ categories[5].name }}</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </div>
+    <br>
+    <hr>
+    <div *ngIf="categories">
+      <div class="underline"> CATEGORIES: </div>
+      <ul>
+        <li *ngFor="let category of categories"> {{ category.name }}</li>
+      </ul>
+    </div>
+</body>
+</html>

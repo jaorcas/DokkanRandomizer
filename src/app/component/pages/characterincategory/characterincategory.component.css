@@ -1,0 +1,31 @@
+.container{
+  margin-top: 100px;
+}
+
+.image-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-container img {
+  display: block;
+  max-width: 100%;
+}
+
+.image-container p {
+  position: absolute;
+  font-size: 22px;
+  left: 50%;
+  top: 15%;
+  transform: translateX(-50%);
+  font-weight: bold;
+  -webkit-text-stroke: 1px black;
+  color: white;
+  font-family: 'Helvetica';
+  z-index: 10;
+  line-height: 1;
+  text-align: center;
+}
+

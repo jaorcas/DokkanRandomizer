@@ -1,0 +1,44 @@
+<div class="main-container d-flex">
+  <div #sidebar class="sidebar" id="side_nav">
+    <div class="header-box px-2 pt-3 pb-4 d-flex justify-content-between">
+      <h1 class="fs-4">
+        <!-- <span class="bg-white text-dark rounded shadow px-2 me-2">DR</span> -->
+        <span class="text-white">Dokkan Randomizer</span>
+      </h1>
+      <button #closeBtn class="btn d-md-none d-block close-btn px-1 py-0 text-white">
+        <i class="fal fa-stream"></i>
+      </button>
+    </div>
+       <!-- <li class="active"> -->
+        <ul #menuItems class="list-unstyled px-2">
+          <li routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
+            <a routerLink="/characterincategory" routerLinkActive="active" class="text-decoration-none px-3 py-2 d-block">
+              <i class="fal fa-home"></i> Random Team
+            </a>
+          </li>
+          <li routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
+            <a routerLink="/sixcategories" routerLinkActive="active" class="text-decoration-none px-3 py-2 d-block">
+              <i class="fal fa-list"></i> 6 Random Categories
+            </a>
+          </li>
+        </ul>
+
+  </div>
+  <div class="content">
+      <div class="container-fluid">
+        <div class="d-flex justify-content-between d-md-none d-block">
+          <button #openBtn class="btn px-1 py-0 open-btn me-2"><i class="fal fa-stream"></i></button>
+          <!-- <a class="navbar-brand fs-4" href="#"><span class="bg-dark rounded px-2 py-0 text-white">DR</span></a> -->
+        </div>
+        <button class="navbar-toggler p-0 border-0" type="button" data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+          aria-expanded="false" aria-label="Toggle navigation">
+          <i class="fal fa-bars"></i>
+        </button>
+      </div>
+
+  </div>
+</div>
+
+<script src="sidebar.component.js"></script>
+

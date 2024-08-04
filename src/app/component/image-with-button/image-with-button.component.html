@@ -1,0 +1,14 @@
+<div class="container mt-5">
+  <div class="d-flex flex-column align-items-center">
+    <!-- Botón Redondo -->
+
+    <div class="reroll-image">
+      <img src="assets/images/reroll.png" (click)="getRandomCharacter()" alt="Imagen" class="img-fluid" >
+    </div>
+
+    <!-- Contenedor Cuadrado para la Imagen -->
+    <div class="image-container">
+      <img [src]="imageURL" alt="Imagen" class="img-fluid">
+    </div>
+  </div>
+</div>

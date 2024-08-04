@@ -1,0 +1,554 @@
+[
+  {
+    "id": 59,
+    "name": "Absorption de puissance",
+    "priority": 69300,
+    "open_at": "2020-08-29T06:27:00+00:00"
+  },
+  {
+    "id": 34,
+    "name": "Arc enfant",
+    "priority": 90000,
+    "open_at": "2019-05-21T06:30:00+00:00"
+  },
+  {
+    "id": 63,
+    "name": "Aspirations connect\u00e9es",
+    "priority": 19400,
+    "open_at": "2021-04-02T06:30:00+00:00"
+  },
+  {
+    "id": 92,
+    "name": "Boss de DB Super",
+    "priority": 39330,
+    "open_at": "2024-02-21T06:30:00+00:00"
+  },
+  {
+    "id": 73,
+    "name": "Boss de GT",
+    "priority": 39400,
+    "open_at": "2021-04-28T00:00:00+00:00"
+  },
+  {
+    "id": 16,
+    "name": "Boss des films",
+    "priority": 39200,
+    "open_at": "2018-08-13T06:30:00+00:00"
+  },
+  {
+    "id": 82,
+    "name": "Chaos mondial",
+    "priority": 18700,
+    "open_at": "2022-02-01T06:30:00+00:00"
+  },
+  {
+    "id": 25,
+    "name": "Chercheurs de boules de cristal",
+    "priority": 29400,
+    "open_at": "2019-02-26T06:30:00+00:00"
+  },
+  {
+    "id": 83,
+    "name": "Combat du destin",
+    "priority": 18950,
+    "open_at": "2022-04-01T06:30:00+00:00"
+  },
+  {
+    "id": 80,
+    "name": "Combat rapide",
+    "priority": 19000,
+    "open_at": "2021-12-15T06:30:00+00:00"
+  },
+  {
+    "id": 89,
+    "name": "Combattant ayant grandi sur Terre",
+    "priority": 30000,
+    "open_at": "2023-02-16T06:30:00+00:00"
+  },
+  {
+    "id": 44,
+    "name": "Combattants de l'au-del\u00e0",
+    "priority": 29800,
+    "open_at": "2020-05-08T06:30:00+00:00"
+  },
+  {
+    "id": 15,
+    "name": "Commando Ginyu",
+    "priority": 40000,
+    "open_at": "2018-07-30T06:30:00+00:00"
+  },
+  {
+    "id": 64,
+    "name": "Corps et esprit corrompus",
+    "priority": 59400,
+    "open_at": "2021-04-02T06:30:00+00:00"
+  },
+  {
+    "id": 54,
+    "name": "Croissance rapide",
+    "priority": 59300,
+    "open_at": "2020-08-11T00:00:00+00:00"
+  },
+  {
+    "id": 61,
+    "name": "Crossover",
+    "priority": 10000,
+    "open_at": "2020-11-19T08:00:00+00:00"
+  },
+  {
+    "id": 21,
+    "name": "Cyborg",
+    "priority": 79600,
+    "open_at": "2018-10-04T06:30:00+00:00"
+  },
+  {
+    "id": 38,
+    "name": "Cyborg - Saga de Cell",
+    "priority": 89800,
+    "open_at": "2019-08-27T05:00:00+00:00"
+  },
+  {
+    "id": 46,
+    "name": "Dernier atout",
+    "priority": 59000,
+    "open_at": "2020-07-09T06:00:00+00:00"
+  },
+  {
+    "id": 69,
+    "name": "Destructeurs de plan\u00e8tes",
+    "priority": 19600,
+    "open_at": "2021-03-18T06:18:00+00:00"
+  },
+  {
+    "id": 50,
+    "name": "Diaboliques et sans merci",
+    "priority": 19700,
+    "open_at": "2020-06-22T06:30:00+00:00"
+  },
+  {
+    "id": 37,
+    "name": "Digne rival",
+    "priority": 50000,
+    "open_at": "2019-12-09T06:30:00+00:00"
+  },
+  {
+    "id": 8,
+    "name": "Divin",
+    "priority": 60000,
+    "open_at": "2017-12-21T04:00:00+00:00"
+  },
+  {
+    "id": 42,
+    "name": "Dragon Ball Heroes",
+    "priority": 9900,
+    "open_at": "2020-01-17T06:30:00+00:00"
+  },
+  {
+    "id": 2,
+    "name": "Dragon mal\u00e9fique",
+    "priority": 89400,
+    "open_at": "2017-11-06T04:00:00+00:00"
+  },
+  {
+    "id": 33,
+    "name": "Enfant",
+    "priority": 79100,
+    "open_at": "2019-05-21T06:30:00+00:00"
+  },
+  {
+    "id": 78,
+    "name": "Ennemi jur\u00e9",
+    "priority": 49900,
+    "open_at": "2021-08-28T06:30:00+00:00"
+  },
+  {
+    "id": 47,
+    "name": "Explosion de col\u00e8re",
+    "priority": 19500,
+    "open_at": "2020-06-08T06:30:00+00:00"
+  },
+  {
+    "id": 30,
+    "name": "Famille de Son Goku",
+    "priority": 79400,
+    "open_at": "2019-04-02T08:00:00+00:00"
+  },
+  {
+    "id": 31,
+    "name": "Famille de Vegeta",
+    "priority": 79300,
+    "open_at": "2019-03-18T06:30:00+00:00"
+  },
+  {
+    "id": 4,
+    "name": "Fille pleine de vie",
+    "priority": 79000,
+    "open_at": "2017-11-06T04:00:00+00:00"
+  },
+  {
+    "id": 28,
+    "name": "Forces jointes",
+    "priority": 49800,
+    "open_at": "2019-02-13T05:30:00+00:00"
+  },
+  {
+    "id": 13,
+    "name": "Forme g\u00e9ante",
+    "priority": 69500,
+    "open_at": "2018-05-25T06:30:00+00:00"
+  },
+  {
+    "id": 1,
+    "name": "Fusion",
+    "priority": 69700,
+    "open_at": "2017-11-06T04:00:00+00:00"
+  },
+  {
+    "id": 85,
+    "name": "Guerrier fusionn\u00e9",
+    "priority": 69550,
+    "open_at": "2022-07-08T05:00:00+00:00"
+  },
+  {
+    "id": 11,
+    "name": "Guerrier inf\u00e9rieur",
+    "priority": 29950,
+    "open_at": "2018-04-05T06:30:00+00:00"
+  },
+  {
+    "id": 68,
+    "name": "Guerriers de g\u00e9nie",
+    "priority": 29900,
+    "open_at": "2021-06-01T06:30:00+00:00"
+  },
+  {
+    "id": 62,
+    "name": "Guerriers galactiques",
+    "priority": 29600,
+    "open_at": "2021-03-01T06:30:00+00:00"
+  },
+  {
+    "id": 88,
+    "name": "H\u00e9ros de DB Super",
+    "priority": 39350,
+    "open_at": "2022-12-28T02:00:00+00:00"
+  },
+  {
+    "id": 72,
+    "name": "H\u00e9ros de GT",
+    "priority": 39500,
+    "open_at": "2021-04-28T00:00:00+00:00"
+  },
+  {
+    "id": 70,
+    "name": "H\u00e9ros de la justice",
+    "priority": 29000,
+    "open_at": "2021-04-09T06:00:00+00:00"
+  },
+  {
+    "id": 29,
+    "name": "H\u00e9ros des films",
+    "priority": 39300,
+    "open_at": "2019-02-01T06:30:00+00:00"
+  },
+  {
+    "id": 39,
+    "name": "Kamehameha",
+    "priority": 69200,
+    "open_at": "2019-08-29T20:35:00+00:00"
+  },
+  {
+    "id": 90,
+    "name": "Le pouvoir des v\u0153ux",
+    "priority": 59550,
+    "open_at": "2023-03-18T06:18:00+00:00"
+  },
+  {
+    "id": 35,
+    "name": "Lien de fratrie",
+    "priority": 49700,
+    "open_at": "2019-05-08T06:30:00+00:00"
+  },
+  {
+    "id": 40,
+    "name": "Lien ma\u00eetre et disciple",
+    "priority": 49500,
+    "open_at": "2019-12-09T06:30:00+00:00"
+  },
+  {
+    "id": 87,
+    "name": "Lien parental",
+    "priority": 49750,
+    "open_at": "2022-08-26T06:00:00+00:00"
+  },
+  {
+    "id": 79,
+    "name": "Liens d'amiti\u00e9",
+    "priority": 49600,
+    "open_at": "2021-12-03T06:30:00+00:00"
+  },
+  {
+    "id": 24,
+    "name": "Lign\u00e9e diabolique",
+    "priority": 79200,
+    "open_at": "2019-04-03T06:30:00+00:00"
+  },
+  {
+    "id": 55,
+    "name": "Lutte \u00e0 pleine puissance",
+    "priority": 19200,
+    "open_at": "2020-12-04T06:30:00+00:00"
+  },
+  {
+    "id": 71,
+    "name": "L\u00e9gende ancestrale",
+    "priority": 29300,
+    "open_at": "2021-06-21T06:30:00+00:00"
+  },
+  {
+    "id": 18,
+    "name": "Namek",
+    "priority": 79700,
+    "open_at": "2018-08-28T05:00:00+00:00"
+  },
+  {
+    "id": 43,
+    "name": "Objectif Son Goku",
+    "priority": 19900,
+    "open_at": "2020-04-02T06:30:00+00:00"
+  },
+  {
+    "id": 91,
+    "name": "Participants aux tournois",
+    "priority": 38900,
+    "open_at": "2024-02-01T06:30:00+00:00"
+  },
+  {
+    "id": 52,
+    "name": "Pose sp\u00e9ciale",
+    "priority": 18800,
+    "open_at": "2020-11-06T06:30:00+00:00"
+  },
+  {
+    "id": 10,
+    "name": "Potalas",
+    "priority": 69600,
+    "open_at": "2018-03-02T06:30:00+00:00"
+  },
+  {
+    "id": 53,
+    "name": "Pouvoir de Majin",
+    "priority": 59700,
+    "open_at": "2020-08-29T06:27:00+00:00"
+  },
+  {
+    "id": 58,
+    "name": "Prodiges du combat",
+    "priority": 19100,
+    "open_at": "2020-08-29T06:27:00+00:00"
+  },
+  {
+    "id": 84,
+    "name": "Puissance au-del\u00e0 du Super Saiyan",
+    "priority": 69750,
+    "open_at": "2022-07-08T05:00:00+00:00"
+  },
+  {
+    "id": 60,
+    "name": "Puissance de gorille",
+    "priority": 59800,
+    "open_at": "2020-11-19T08:00:00+00:00"
+  },
+  {
+    "id": 20,
+    "name": "Puissance maximale",
+    "priority": 59900,
+    "open_at": "2018-11-21T05:00:00+00:00"
+  },
+  {
+    "id": 67,
+    "name": "Puissance restaur\u00e9e",
+    "priority": 59600,
+    "open_at": "2021-07-09T03:00:00+00:00"
+  },
+  {
+    "id": 74,
+    "name": "P\u00e9rip\u00e9ties c\u00e9lestes",
+    "priority": 18900,
+    "open_at": "2021-10-06T00:00:00+00:00"
+  },
+  {
+    "id": 22,
+    "name": "Repr\u00e9sentants de l'Univers 7",
+    "priority": 39700,
+    "open_at": "2018-09-13T05:00:00+00:00"
+  },
+  {
+    "id": 7,
+    "name": "Ressuscit\u00e9",
+    "priority": 29700,
+    "open_at": "2018-03-15T06:30:00+00:00"
+  },
+  {
+    "id": 9,
+    "name": "Saga de Boo",
+    "priority": 89700,
+    "open_at": "2018-01-22T06:30:00+00:00"
+  },
+  {
+    "id": 14,
+    "name": "Saga de Namek",
+    "priority": 89900,
+    "open_at": "2018-07-07T00:00:00+00:00"
+  },
+  {
+    "id": 86,
+    "name": "Saga des Saiyans",
+    "priority": 89950,
+    "open_at": "2022-06-20T06:30:00+00:00"
+  },
+  {
+    "id": 19,
+    "name": "Saga du futur",
+    "priority": 89600,
+    "open_at": "2018-12-12T00:00:00+00:00"
+  },
+  {
+    "id": 5,
+    "name": "Saiyan de sang-m\u00eal\u00e9",
+    "priority": 79900,
+    "open_at": "2017-12-28T02:00:00+00:00"
+  },
+  {
+    "id": 17,
+    "name": "Saiyan pur",
+    "priority": 80000,
+    "open_at": "2018-10-26T06:30:00+00:00"
+  },
+  {
+    "id": 57,
+    "name": "Sauveur",
+    "priority": 29100,
+    "open_at": "2020-10-05T06:30:00+00:00"
+  },
+  {
+    "id": 36,
+    "name": "Super Saiyan",
+    "priority": 70000,
+    "open_at": "2019-10-03T06:30:00+00:00"
+  },
+  {
+    "id": 45,
+    "name": "Super Saiyan 2",
+    "priority": 69900,
+    "open_at": "2020-05-08T06:30:00+00:00"
+  },
+  {
+    "id": 12,
+    "name": "Super Saiyan 3",
+    "priority": 69800,
+    "open_at": "2018-05-25T06:30:00+00:00"
+  },
+  {
+    "id": 6,
+    "name": "Survie de l'Univers",
+    "priority": 89500,
+    "open_at": "2018-02-17T06:30:00+00:00"
+  },
+  {
+    "id": 75,
+    "name": "Temps limit\u00e9",
+    "priority": 59100,
+    "open_at": "2021-11-04T06:30:00+00:00"
+  },
+  {
+    "id": 3,
+    "name": "Tenkaichi Budokai",
+    "priority": 39000,
+    "open_at": "2017-11-06T04:00:00+00:00"
+  },
+  {
+    "id": 51,
+    "name": "Terrien",
+    "priority": 79800,
+    "open_at": "2020-06-08T06:30:00+00:00"
+  },
+  {
+    "id": 41,
+    "name": "Terrifiants conqu\u00e9rants",
+    "priority": 19800,
+    "open_at": "2020-03-02T06:30:00+00:00"
+  },
+  {
+    "id": 23,
+    "name": "Transformation fortifiante",
+    "priority": 69400,
+    "open_at": "2019-01-16T06:30:00+00:00"
+  },
+  {
+    "id": 56,
+    "name": "Univers 11",
+    "priority": 39600,
+    "open_at": "2021-01-18T06:30:00+00:00"
+  },
+  {
+    "id": 27,
+    "name": "Univers 6",
+    "priority": 39800,
+    "open_at": "2018-12-24T06:30:00+00:00"
+  },
+  {
+    "id": 48,
+    "name": "Vengeance",
+    "priority": 20000,
+    "open_at": "2020-03-18T06:18:00+00:00"
+  },
+  {
+    "id": 32,
+    "name": "Vie artificielle",
+    "priority": 79500,
+    "open_at": "2019-07-26T06:30:00+00:00"
+  },
+  {
+    "id": 81,
+    "name": "Volont\u00e9 confi\u00e9e",
+    "priority": 19300,
+    "open_at": "2022-03-01T06:30:00+00:00"
+  },
+  {
+    "id": 26,
+    "name": "Voyageur du temps",
+    "priority": 29500,
+    "open_at": "2019-02-01T06:30:00+00:00"
+  },
+  {
+    "id": 65,
+    "name": "\u00c9cole tortue",
+    "priority": 39100,
+    "open_at": "2021-07-07T00:00:00+00:00"
+  },
+  {
+    "id": 49,
+    "name": "\u00c9quipe Bardock",
+    "priority": 39900,
+    "open_at": "2020-03-18T00:00:00+00:00"
+  },
+  {
+    "id": 66,
+    "name": "\u00c9veil miraculeux",
+    "priority": 59500,
+    "open_at": "2021-07-09T03:00:00+00:00"
+  },
+  {
+    "id": 76,
+    "name": "\u00c9volution ma\u00eetris\u00e9e",
+    "priority": 59200,
+    "open_at": "2022-01-03T06:30:00+00:00"
+  },
+  {
+    "id": 77,
+    "name": "\u00catre l\u00e9gendaire",
+    "priority": 29200,
+    "open_at": "2021-08-28T06:30:00+00:00"
+  }
+]
