@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "DokkanRandomizerFran": {
+    "DokkanRandomizer": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -23,7 +23,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/dokkan-randomizer-fran",
+            "outputPath": "dist/dokkan-randomizer",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -67,10 +67,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "DokkanRandomizerFran:build:production"
+              "buildTarget": "DokkanRandomizer:build:production"
             },
             "development": {
-              "buildTarget": "DokkanRandomizerFran:build:development"
+              "buildTarget": "DokkanRandomizer:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -78,7 +78,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "DokkanRandomizerFran:build"
+            "buildTarget": "DokkanRandomizer:build"
           }
         },
         "test": {
