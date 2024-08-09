@@ -63,7 +63,7 @@ const Constants = {
     { id: 10, name: "Potara" } as CategoriasItem,
     { id: 53, name: "Majin Power" } as CategoriasItem,
     { id: 58, name: "Battle of Wits" } as CategoriasItem,
-    { id: 84, name: "Beyond Super Saiyan" } as CategoriasItem,
+    { id: 84, name: "Power Beyond Super Saiyan" } as CategoriasItem,
     { id: 60, name: "Giant Ape Power" } as CategoriasItem,
     { id: 20, name: "Full Power" } as CategoriasItem,
     { id: 67, name: "Powerfull Combat" } as CategoriasItem,
