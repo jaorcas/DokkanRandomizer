@@ -7,3 +7,6 @@ That's why I created this page with 2 game modes: one for generating a random ca
 **Here’s the link to the page: https://dokkan-randomizer.vercel.app/**
 
 Thanks, and I hope you enjoy it =)
+
+
+![1](https://github.com/user-attachments/assets/79e5ae78-f5b0-47bc-b1a5-abd4a6bacfc3)
