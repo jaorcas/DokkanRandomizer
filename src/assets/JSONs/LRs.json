@@ -1,5 +1,69 @@
 [
   {
+      "name": "Broly",
+      "id": 1029400,
+      "rarity": 5,
+      "element": 21,
+      "hp_max": 14550,
+      "atk_max": 13115,
+      "def_max": 7956,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          16,
+          17,
+          20,
+          23,
+          43,
+          47,
+          50,
+          69,
+          77,
+          84,
+          94
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1029400_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 6825,
+              "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Son Goku Super Saiyan & Son Gohan Super Saiyan (enfant) & \nTrunks Super Saiyan (jeune)",
+      "id": 1029360,
+      "rarity": 5,
+      "element": 14,
+      "hp_max": 15240,
+      "atk_max": 12977,
+      "def_max": 7784,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          28,
+          29,
+          36,
+          39,
+          55,
+          63,
+          81,
+          89,
+          90
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1029360_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 6833,
+              "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
       "name": "Son Goku (Signes de l'Ultra Instinct)",
       "id": 1029050,
       "rarity": 5,
@@ -57,7 +121,8 @@
           32,
           46,
           83,
-          92
+          92,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028960_thumb.png",
       "awakening_routes": [
@@ -325,7 +390,8 @@
           66,
           68,
           84,
-          92
+          92,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028020_thumb.png",
       "awakening_routes": [
@@ -805,7 +871,8 @@
           59,
           74,
           78,
-          82
+          82,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026430_thumb.png",
       "awakening_routes": [
@@ -832,7 +899,8 @@
           9,
           41,
           50,
-          64
+          64,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026390_thumb.png",
       "awakening_routes": [
@@ -906,7 +974,8 @@
           60,
           86,
           87,
-          89
+          89,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026130_thumb.png",
       "awakening_routes": [
@@ -1896,7 +1965,8 @@
           23,
           47,
           64,
-          80
+          80,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1022590_thumb.png",
       "awakening_routes": [
@@ -2089,7 +2159,8 @@
           59,
           73,
           83,
-          85
+          85,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1022090_thumb.png",
       "awakening_routes": [
@@ -2497,7 +2568,8 @@
           59,
           75,
           78,
-          82
+          82,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1020370_thumb.png",
       "awakening_routes": [
@@ -2934,7 +3006,8 @@
           49,
           60,
           62,
-          71
+          71,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1019100_thumb.png",
       "awakening_routes": [
@@ -3320,7 +3393,8 @@
           28,
           35,
           38,
-          43
+          43,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1018030_thumb.png",
       "awakening_routes": [
@@ -3625,7 +3699,8 @@
           50,
           69,
           77,
-          84
+          84,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016870_thumb.png",
       "awakening_routes": [
@@ -4715,7 +4790,8 @@
           40,
           60,
           87,
-          89
+          89,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1012400_thumb.png",
       "awakening_routes": [
@@ -5110,7 +5186,8 @@
           50,
           69,
           77,
-          84
+          84,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010440_thumb.png",
       "awakening_routes": [
@@ -5157,7 +5234,8 @@
           64,
           68,
           84,
-          87
+          87,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010160_thumb.png",
       "awakening_routes": [
@@ -5374,7 +5452,8 @@
           28,
           35,
           38,
-          43
+          43,
+          94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008800_thumb.png",
       "awakening_routes": [

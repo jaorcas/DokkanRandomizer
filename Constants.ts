@@ -98,6 +98,7 @@ const Constants = {
     { id: 76, name: "Mastered Evolution" } as CategoriasItem,
     { id: 77, name: "Legendary Existence" } as CategoriasItem,
     { id: 15, name: "Ginyu Forces" } as CategoriasItem,
+    { id: 94, name: "Uncontrollable Power" } as CategoriasItem,
     // { id: 999, name: "Gohan Beast =)" } as CategoriasItem
 
   ] as CategoriasItem[],
