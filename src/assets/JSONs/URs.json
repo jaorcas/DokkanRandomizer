@@ -32,6 +32,38 @@
       "card_skills": []
   },
   {
+      "name": "Trunks Super Saiyan (petit)",
+      "id": 1029670,
+      "rarity": 4,
+      "element": 12,
+      "hp_max": 7033,
+      "atk_max": 7485,
+      "def_max": 3997,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          5,
+          25,
+          29,
+          31,
+          33,
+          36,
+          68,
+          79,
+          87,
+          89
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1029670_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 6796,
+              "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
       "name": "Paragus",
       "id": 1029640,
       "rarity": 4,
@@ -53,6 +85,111 @@
           {
               "id": 6799,
               "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Videl",
+      "id": 1029620,
+      "rarity": 4,
+      "element": 11,
+      "hp_max": 8166,
+      "atk_max": 8877,
+      "def_max": 4101,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          4,
+          25,
+          29,
+          51,
+          70,
+          87,
+          89
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1029620_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 6858,
+              "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Son Gohan Super Saiyan (jeune)",
+      "id": 1029460,
+      "rarity": 4,
+      "element": 13,
+      "hp_max": 8580,
+      "atk_max": 8144,
+      "def_max": 4405,
+      "hasDokkan": true,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          5,
+          9,
+          29,
+          30,
+          35,
+          36,
+          39,
+          57,
+          70,
+          87,
+          89
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1029460_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 6861,
+              "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 6862,
+              "type": "CardAwakeningRoute::Dokkan"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Broly Super Saiyan L\u00e9gendaire",
+      "id": 1029430,
+      "rarity": 4,
+      "element": 22,
+      "hp_max": 7590,
+      "atk_max": 8180,
+      "def_max": 4855,
+      "hasDokkan": true,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          7,
+          16,
+          17,
+          20,
+          23,
+          43,
+          47,
+          48,
+          50,
+          69,
+          77,
+          84,
+          94
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1029430_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 6853,
+              "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 6854,
+              "type": "CardAwakeningRoute::Dokkan"
           }
       ],
       "card_skills": []
@@ -18088,7 +18225,7 @@
       "atk_max": 6545,
       "def_max": 3779,
       "hasDokkan": false,
-      "hasEza": false,
+      "hasEza": true,
       "hasSuperEza": false,
       "category_ids": [
           4,
@@ -18104,6 +18241,34 @@
           {
               "id": 2185,
               "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 6864,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6865,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6866,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6867,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6868,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6869,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6870,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []

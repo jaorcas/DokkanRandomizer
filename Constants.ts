@@ -25,7 +25,7 @@ const Constants = {
     { id: 38, name: "Androids/Cell Saga" } as CategoriasItem,
     { id: 46, name: "Final Trump Card" } as CategoriasItem,
     { id: 69, name: "Planetary Destruction" } as CategoriasItem,
-    { id: 50, name: "Sworn Enemies" } as CategoriasItem,
+    { id: 50, name: "Inhuman Deeds" } as CategoriasItem,
     { id: 37, name: "Worthy Rivals" } as CategoriasItem,
     { id: 8, name: "Realm of Gods" } as CategoriasItem,
     // { id: 42, name: "Dragon Ball Heroes" } as CategoriasItem,
