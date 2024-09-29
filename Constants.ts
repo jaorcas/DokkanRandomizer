@@ -15,7 +15,7 @@ const Constants = {
     { id: 82, name: "Worldwide Chaos" } as CategoriasItem,
     { id: 25, name: "Dragon Ball Seekers" } as CategoriasItem,
     { id: 83, name: "Battle of Fate" } as CategoriasItem,
-    { id: 80, name: "Rapid Growth" } as CategoriasItem,
+    { id: 80, name: "Accelerated Battle" } as CategoriasItem,
     { id: 89, name: "Earthbred Fighters" } as CategoriasItem,
     { id: 44, name: "Otherworld Warriors" } as CategoriasItem,
     { id: 64, name: "Corroded Body and Mind" } as CategoriasItem,
