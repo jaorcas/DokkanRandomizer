@@ -99,7 +99,7 @@ const Constants = {
     { id: 77, name: "Legendary Existence" } as CategoriasItem,
     { id: 15, name: "Ginyu Forces" } as CategoriasItem,
     { id: 94, name: "Uncontrollable Power" } as CategoriasItem,
-    // { id: 999, name: "Gohan Beast =)" } as CategoriasItem
+    { id: 93, name: "Demonic Power" } as CategoriasItem,
 
   ] as CategoriasItem[],
 

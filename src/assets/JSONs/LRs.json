@@ -1,5 +1,135 @@
 [
   {
+      "name": "Gotenks Super Saiyan 3",
+      "id": 1030020,
+      "rarity": 5,
+      "element": 11,
+      "hp_max": 12998,
+      "atk_max": 13184,
+      "def_max": 8646,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          1,
+          5,
+          9,
+          12,
+          33,
+          39,
+          46,
+          52,
+          54,
+          57,
+          63,
+          68,
+          74,
+          75,
+          76,
+          81,
+          84,
+          85,
+          89
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1030020_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 7139,
+              "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Son Gohan (petit)\/Piccolo",
+      "id": 1029700,
+      "rarity": 5,
+      "element": 11,
+      "hp_max": 16275,
+      "atk_max": 12977,
+      "def_max": 7266,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          5,
+          14,
+          25,
+          30,
+          33,
+          40,
+          54,
+          57,
+          63,
+          81,
+          87,
+          89,
+          93
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1029700_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 6929,
+              "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Anilaza",
+      "id": 1029550,
+      "rarity": 5,
+      "element": 23,
+      "hp_max": 9295,
+      "atk_max": 7902,
+      "def_max": 4043,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          6,
+          46,
+          85,
+          91,
+          92
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1029550_thumb.png",
+      "awakening_routes": [],
+      "card_skills": []
+  },
+  {
+      "name": "Son Gohan (grand-p\u00e8re)",
+      "id": 1029510,
+      "rarity": 5,
+      "element": 11,
+      "hp_max": 12729,
+      "atk_max": 12936,
+      "def_max": 7174,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          30,
+          34,
+          39,
+          40,
+          44,
+          51,
+          65,
+          75,
+          87,
+          89
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1029510_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 6934,
+              "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
       "name": "Son Gohan Super Saiyan (jeune)",
       "id": 1029470,
       "rarity": 5,
@@ -23,7 +153,8 @@
           70,
           87,
           89,
-          90
+          90,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1029470_thumb.png",
       "awakening_routes": [
@@ -129,6 +260,77 @@
       "awakening_routes": [
           {
               "id": 6833,
+              "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Bio Broly",
+      "id": 1029270,
+      "rarity": 5,
+      "element": 24,
+      "hp_max": 14327,
+      "atk_max": 12361,
+      "def_max": 7094,
+      "hasDokkan": false,
+      "hasEza": true,
+      "hasSuperEza": false,
+      "category_ids": [
+          7,
+          16,
+          32,
+          94
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1029270_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 6886,
+              "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 6887,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6888,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6889,
+              "type": "CardAwakeningRoute::Optimal"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Jiren",
+      "id": 1029090,
+      "rarity": 5,
+      "element": 10,
+      "hp_max": 14723,
+      "atk_max": 13391,
+      "def_max": 7525,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          6,
+          8,
+          20,
+          23,
+          56,
+          62,
+          67,
+          70,
+          83,
+          91,
+          92
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1029090_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 6787,
               "type": "CardAwakeningRoute::Unawake"
           }
       ],
@@ -255,7 +457,8 @@
           81,
           87,
           89,
-          90
+          90,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028890_thumb.png",
       "awakening_routes": [
@@ -399,7 +602,8 @@
           83,
           87,
           88,
-          89
+          89,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028320_thumb.png",
       "awakening_routes": [
@@ -643,7 +847,8 @@
           63,
           81,
           87,
-          89
+          89,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1027330_thumb.png",
       "awakening_routes": [
@@ -943,6 +1148,7 @@
           74,
           78,
           82,
+          93,
           94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026430_thumb.png",
@@ -971,6 +1177,7 @@
           41,
           50,
           64,
+          93,
           94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026390_thumb.png",
@@ -1046,6 +1253,7 @@
           86,
           87,
           89,
+          93,
           94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026130_thumb.png",
@@ -1239,7 +1447,8 @@
           85,
           88,
           89,
-          90
+          90,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1025590_thumb.png",
       "awakening_routes": [
@@ -1276,7 +1485,8 @@
           83,
           87,
           88,
-          89
+          89,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1025560_thumb.png",
       "awakening_routes": [
@@ -1821,7 +2031,7 @@
       "atk_max": 13874,
       "def_max": 7525,
       "hasDokkan": false,
-      "hasEza": false,
+      "hasEza": true,
       "hasSuperEza": false,
       "category_ids": [
           14,
@@ -1839,6 +2049,18 @@
           {
               "id": 3778,
               "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 6938,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6939,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6940,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []
@@ -1852,7 +2074,7 @@
       "atk_max": 12563,
       "def_max": 7698,
       "hasDokkan": false,
-      "hasEza": false,
+      "hasEza": true,
       "hasSuperEza": false,
       "category_ids": [
           14,
@@ -1867,6 +2089,18 @@
           {
               "id": 3773,
               "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 6935,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6936,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6937,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []
@@ -1921,7 +2155,7 @@
       "atk_max": 8502,
       "def_max": 5229,
       "hasDokkan": false,
-      "hasEza": false,
+      "hasEza": true,
       "hasSuperEza": false,
       "category_ids": [
           11,
@@ -1942,6 +2176,18 @@
           {
               "id": 3786,
               "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 6958,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6959,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6960,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []
@@ -2029,7 +2275,7 @@
       "atk_max": 12770,
       "def_max": 8388,
       "hasDokkan": false,
-      "hasEza": false,
+      "hasEza": true,
       "hasSuperEza": false,
       "category_ids": [
           16,
@@ -2044,6 +2290,18 @@
           {
               "id": 3521,
               "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 6899,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6900,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6901,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []
@@ -2158,7 +2416,7 @@
       "atk_max": 13805,
       "def_max": 7525,
       "hasDokkan": false,
-      "hasEza": false,
+      "hasEza": true,
       "hasSuperEza": false,
       "category_ids": [
           1,
@@ -2180,6 +2438,18 @@
           {
               "id": 3505,
               "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 6902,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6903,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6904,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []
@@ -2483,7 +2753,8 @@
           84,
           87,
           89,
-          91
+          91,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1021140_thumb.png",
       "awakening_routes": [
@@ -2510,7 +2781,8 @@
           28,
           41,
           50,
-          82
+          82,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1021010_thumb.png",
       "awakening_routes": [
@@ -2640,6 +2912,7 @@
           75,
           78,
           82,
+          93,
           94
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1020370_thumb.png",
@@ -3334,7 +3607,8 @@
       "category_ids": [
           9,
           28,
-          41
+          41,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1018590_thumb.png",
       "awakening_routes": [
@@ -3549,7 +3823,7 @@
       "atk_max": 12553,
       "def_max": 8372,
       "hasDokkan": false,
-      "hasEza": false,
+      "hasEza": true,
       "hasSuperEza": false,
       "category_ids": [
           7,
@@ -3566,13 +3840,26 @@
           80,
           82,
           83,
-          90
+          90,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1017780_thumb.png",
       "awakening_routes": [
           {
               "id": 2716,
               "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 6941,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6942,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6943,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []
@@ -3610,7 +3897,8 @@
           84,
           87,
           89,
-          91
+          91,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1017630_thumb.png",
       "awakening_routes": [
@@ -3996,7 +4284,8 @@
           63,
           72,
           85,
-          89
+          89,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016310_thumb.png",
       "awakening_routes": [
@@ -4716,7 +5005,7 @@
       "card_skills": []
   },
   {
-      "name": "Son Goku Super Saiyan (ange) & Vegeta Super Saiyan (ange)",
+      "name": "Son Goku Super Saiyan (ange) & \nVegeta Super Saiyan (ange)",
       "id": 1012930,
       "rarity": 5,
       "element": 14,
@@ -4819,6 +5108,7 @@
       "hasEza": true,
       "hasSuperEza": false,
       "category_ids": [
+          9,
           12,
           17,
           20,
@@ -5369,7 +5659,8 @@
           84,
           87,
           89,
-          91
+          91,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010070_thumb.png",
       "awakening_routes": [
@@ -5496,7 +5787,8 @@
           68,
           69,
           86,
-          89
+          89,
+          93
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009230_thumb.png",
       "awakening_routes": [
@@ -5598,6 +5890,10 @@
           },
           {
               "id": 2895,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 6897,
               "type": "CardAwakeningRoute::Optimal"
           }
       ],
