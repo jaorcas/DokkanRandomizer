@@ -9,6 +9,7 @@ import { RouterModule } from '@angular/router';
 import { CharacterincategoryComponent as CharacterInCategoryComponent } from './component/pages/characterincategory/characterincategory.component';
 import { ImageWithButtonComponent } from './component/image-with-button/image-with-button.component';
 import { HttpClientModule } from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { HttpClientModule } from '@angular/common/http';
     BrowserModule,
     AppRoutingModule,
     RouterModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

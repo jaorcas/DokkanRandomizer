@@ -3,7 +3,6 @@ import { CharacterItem } from '../../Interfaces/character.interface';
 import Constants from '../../../../Constants';
 import { CharacterService } from '../../Services/character.service';
 import { Observable } from 'rxjs';
-import { CharacterincategoryComponent } from '../pages/characterincategory/characterincategory.component';
 
 @Component({
   selector: 'app-image-with-button',
@@ -21,11 +20,11 @@ export class ImageWithButtonComponent {
 
 
   constructor(
-    private characterService: CharacterService,
-  ) {}
+    private characterService: CharacterService) {}
 
   getRandomCharacter() {
     if(this.category){
+      debugger
       this.character = this.characterService.getCharacterInCategory(this.category);
       this.character.subscribe(character => {
         this.imageURL = this.baseURL + character.thumb;
@@ -36,5 +35,6 @@ export class ImageWithButtonComponent {
   resetImage() {
     this.imageURL = this.defaultImage;
   }
+
 
 }

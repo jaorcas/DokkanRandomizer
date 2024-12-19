@@ -12,18 +12,15 @@ import { ImageWithButtonComponent } from '../../image-with-button/image-with-but
 export class CharacterincategoryComponent {
 
   category:  CategoriasItem  | undefined;
+  categories = Constants.allCategories;
   baseURL : string = Constants.urlImagenes
   @ViewChildren(ImageWithButtonComponent) imageWithButtons!: QueryList<ImageWithButtonComponent>;
 
   constructor(
-    private categoriesService: CategoriesService,
-
-  ) {
-  }
+    private categoriesService: CategoriesService) {}
 
   getRandomCategory(){
     this.category = this.categoriesService.getRandomCategory()
-
     this.imageWithButtons.forEach(c => {
       c.category = this.category?.id
     })
@@ -35,6 +32,15 @@ export class CharacterincategoryComponent {
     this.imageWithButtons.forEach(c => {
       c.resetImage();
     })
+  }
+
+  selectCategoryOnMenu(event : Event){
+    const selectedValue = (event.target as HTMLSelectElement).value;
+    this.category = Constants.allCategories.find(c => c.id == parseInt(selectedValue));
+    this.imageWithButtons.forEach(c => {
+      c.category = this.category?.id
+    })
+    this.resetAllImages();
   }
 
 }
