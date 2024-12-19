@@ -25,7 +25,7 @@
       <!-- SELECTOR MANUAL-->
       <div class="col-md-3 d-flex justify-content-center">
         <select class="form-select" (change)="selectCategoryOnMenu($event)">
-          <option *ngFor="let category of categories" [value]="category.id">{{category.name}}</option>
+          <option *ngFor="let category of categoriesSorted" [value]="category.id">{{category.name}}</option>
         </select>
       </div>
 

@@ -12,7 +12,7 @@ import { ImageWithButtonComponent } from '../../image-with-button/image-with-but
 export class CharacterincategoryComponent {
 
   category:  CategoriasItem  | undefined;
-  categories = Constants.allCategories;
+  categoriesSorted = Constants.allCategories.sort((a, b) => a.name.localeCompare(b.name));
   baseURL : string = Constants.urlImagenes
   @ViewChildren(ImageWithButtonComponent) imageWithButtons!: QueryList<ImageWithButtonComponent>;
 
