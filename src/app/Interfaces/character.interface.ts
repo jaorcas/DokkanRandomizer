@@ -4,4 +4,5 @@ export interface CharacterItem {
   rarity: number;
   thumb: string;
   category_ids: number[];
+  hasDokkan: boolean;
 }

@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
+import { map, Observable } from 'rxjs';
 import { CharacterItem } from '../Interfaces/character.interface';
 import Constants from '../../../Constants';
 @Injectable({
@@ -27,7 +27,9 @@ export class CharacterService {
   }
 
   private getURCharacters(): Observable<CharacterItem[]> {
-    return this.getCharactersInJSON(Constants.URJSONPath);
+    return this.getCharactersInJSON(Constants.URJSONPath).pipe(
+      map(characters => characters.filter(character => !character.hasDokkan))
+    );
   }
 
   private getCharactersInJSON(jsonPath: string): Observable<CharacterItem[]> {
