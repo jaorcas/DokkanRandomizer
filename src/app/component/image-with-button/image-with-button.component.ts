@@ -24,7 +24,6 @@ export class ImageWithButtonComponent {
 
   getRandomCharacter() {
     if(this.category){
-      debugger
       this.character = this.characterService.getCharacterInCategory(this.category);
       this.character.subscribe(character => {
         this.imageURL = this.baseURL + character.thumb;
