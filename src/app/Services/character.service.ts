@@ -27,9 +27,10 @@ export class CharacterService {
   }
 
   private getURCharacters(): Observable<CharacterItem[]> {
-    return this.getCharactersInJSON(Constants.URJSONPath).pipe(
-      map(characters => characters.filter(character => !character.hasDokkan))
-    );
+    return this.getCharactersInJSON(Constants.URJSONPath)
+    .pipe(
+      map(characters => characters.filter(character => !character.hasDokkan)))
+    ;
   }
 
   private getCharactersInJSON(jsonPath: string): Observable<CharacterItem[]> {
@@ -37,6 +38,7 @@ export class CharacterService {
   }
 
   getCharacterInCategory(id: number): Observable<CharacterItem> {
+    debugger
     return new Observable(observer => {
       this.getAllCharacters().subscribe(allCharacters => {
         const charactersInCategory = Array.from(allCharacters).filter(char => char.category_ids.includes(id));

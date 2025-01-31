@@ -101,6 +101,7 @@ const Constants = {
     { id: 94, name: "Uncontrollable Power" } as CategoriasItem,
     { id: 93, name: "Demonic Power" } as CategoriasItem,
     { id: 95, name: "Earth Protecting Heroes" } as CategoriasItem,
+    { id: 96, name: "Successors" } as CategoriasItem,
 
   ] as CategoriasItem[],
 
