@@ -11,6 +11,7 @@ export class CharacterService {
   constructor(private http: HttpClient) { }
 
   getAllCharacters(): Observable<Set<CharacterItem>> {
+    debugger
     return new Observable(observer => {
       this.getLRCharacters().subscribe(lrCharacters => {
         this.getURCharacters().subscribe(urCharacters => {
@@ -32,13 +33,11 @@ export class CharacterService {
       map(characters => characters.filter(character => !character.hasDokkan)))
     ;
   }
-
   private getCharactersInJSON(jsonPath: string): Observable<CharacterItem[]> {
     return this.http.get<CharacterItem[]>(jsonPath)
   }
 
   getCharacterInCategory(id: number): Observable<CharacterItem> {
-    debugger
     return new Observable(observer => {
       this.getAllCharacters().subscribe(allCharacters => {
         const charactersInCategory = Array.from(allCharacters).filter(char => char.category_ids.includes(id));

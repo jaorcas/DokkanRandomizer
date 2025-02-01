@@ -97,10 +97,10 @@ const Constants = {
     { id: 66, name: "Miraculous Awakening" } as CategoriasItem,
     { id: 76, name: "Mastered Evolution" } as CategoriasItem,
     { id: 77, name: "Legendary Existence" } as CategoriasItem,
-    { id: 15, name: "Ginyu Forces" } as CategoriasItem,
+    //{ id: 15, name: "Ginyu Forces" } as CategoriasItem,
     { id: 94, name: "Uncontrollable Power" } as CategoriasItem,
     { id: 93, name: "Demonic Power" } as CategoriasItem,
-    { id: 95, name: "Earth-Protecting H." } as CategoriasItem,
+    { id: 95, name: "Earth Protecting H." } as CategoriasItem,
     { id: 96, name: "Successors" } as CategoriasItem,
 
   ] as CategoriasItem[],

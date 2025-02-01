@@ -1,5 +1,221 @@
 [
   {
+      "name": "M. Satan",
+      "id": 1030730,
+      "rarity": 4,
+      "element": 13,
+      "hp_max": 9093,
+      "atk_max": 7950,
+      "def_max": 4797,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          3,
+          9,
+          10,
+          46,
+          51,
+          57,
+          79,
+          85,
+          87,
+          89,
+          91,
+          95
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1030730_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 7195,
+              "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Son Goku Super Saiyan (Mini) (DAIMA)",
+      "id": 1030660,
+      "rarity": 4,
+      "element": 12,
+      "hp_max": 12654,
+      "atk_max": 10723,
+      "def_max": 5708,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          17,
+          23,
+          25,
+          26,
+          30,
+          36,
+          39,
+          45,
+          65,
+          80,
+          84,
+          87,
+          89
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1030660_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 7189,
+              "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Glorio",
+      "id": 1030640,
+      "rarity": 4,
+      "element": 14,
+      "hp_max": 12520,
+      "atk_max": 10509,
+      "def_max": 6042,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          25,
+          58,
+          74,
+          80,
+          93
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1030640_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 7192,
+              "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Vegeta Super Saiyan divin SS \u00e9volu\u00e9",
+      "id": 1030560,
+      "rarity": 4,
+      "element": 13,
+      "hp_max": 7770,
+      "atk_max": 8252,
+      "def_max": 4675,
+      "hasDokkan": true,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          6,
+          8,
+          17,
+          20,
+          22,
+          31,
+          35,
+          37,
+          40,
+          55,
+          66,
+          67,
+          68,
+          84,
+          87,
+          88,
+          91,
+          96
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1030560_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 7198,
+              "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 7199,
+              "type": "CardAwakeningRoute::Dokkan"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Son Goku Super Saiyan",
+      "id": 1030420,
+      "rarity": 4,
+      "element": 11,
+      "hp_max": 7515,
+      "atk_max": 8371,
+      "def_max": 4684,
+      "hasDokkan": true,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          9,
+          10,
+          17,
+          30,
+          36,
+          39,
+          65,
+          79,
+          80,
+          85,
+          87,
+          89,
+          95
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1030420_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 7179,
+              "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 7180,
+              "type": "CardAwakeningRoute::Dokkan"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Son Goku Super Saiyan 3 (GT)",
+      "id": 1030330,
+      "rarity": 4,
+      "element": 10,
+      "hp_max": 7590,
+      "atk_max": 8216,
+      "def_max": 4810,
+      "hasDokkan": true,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          12,
+          17,
+          30,
+          60,
+          65,
+          72,
+          79,
+          80,
+          84,
+          87,
+          89
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1030330_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 7184,
+              "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 7185,
+              "type": "CardAwakeningRoute::Dokkan"
+          }
+      ],
+      "card_skills": []
+  },
+  {
       "name": "Son Gohan (petit)",
       "id": 1030220,
       "rarity": 4,
@@ -440,7 +656,8 @@
           26,
           42,
           61,
-          71
+          71,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1029910_thumb.png",
       "awakening_routes": [
@@ -528,7 +745,8 @@
           62,
           68,
           69,
-          78
+          78,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1029850_thumb.png",
       "awakening_routes": [
@@ -596,7 +814,8 @@
           68,
           85,
           89,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1029770_thumb.png",
       "awakening_routes": [
@@ -830,7 +1049,8 @@
           31,
           50,
           68,
-          69
+          69,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1029570_thumb.png",
       "awakening_routes": [
@@ -899,7 +1119,8 @@
           70,
           87,
           89,
-          93
+          93,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1029460_thumb.png",
       "awakening_routes": [
@@ -1061,7 +1282,8 @@
           35,
           40,
           62,
-          69
+          69,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1029290_thumb.png",
       "awakening_routes": [
@@ -1861,7 +2083,8 @@
           70,
           76,
           91,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028680_thumb.png",
       "awakening_routes": [
@@ -1914,7 +2137,8 @@
           62,
           68,
           69,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028600_thumb.png",
       "awakening_routes": [
@@ -1996,7 +2220,8 @@
           62,
           68,
           69,
-          78
+          78,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028570_thumb.png",
       "awakening_routes": [
@@ -2026,7 +2251,8 @@
           62,
           69,
           77,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028540_thumb.png",
       "awakening_routes": [
@@ -2058,7 +2284,8 @@
           41,
           50,
           62,
-          71
+          71,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028520_thumb.png",
       "awakening_routes": [
@@ -2088,7 +2315,8 @@
           38,
           58,
           68,
-          76
+          76,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028490_thumb.png",
       "awakening_routes": [
@@ -2271,7 +2499,8 @@
           87,
           88,
           89,
-          93
+          93,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028310_thumb.png",
       "awakening_routes": [
@@ -2309,7 +2538,8 @@
           82,
           84,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028280_thumb.png",
       "awakening_routes": [
@@ -2344,7 +2574,8 @@
           68,
           76,
           78,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028230_thumb.png",
       "awakening_routes": [
@@ -2519,7 +2750,8 @@
       "category_ids": [
           28,
           29,
-          36
+          36,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1028050_thumb.png",
       "awakening_routes": [
@@ -2589,7 +2821,8 @@
           67,
           75,
           85,
-          88
+          88,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1027970_thumb.png",
       "awakening_routes": [
@@ -2625,7 +2858,8 @@
           70,
           81,
           87,
-          89
+          89,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1027950_thumb.png",
       "awakening_routes": [
@@ -2949,7 +3183,8 @@
           66,
           68,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1027780_thumb.png",
       "awakening_routes": [
@@ -3178,7 +3413,8 @@
           80,
           84,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1027620_thumb.png",
       "awakening_routes": [
@@ -3535,7 +3771,8 @@
           26,
           50,
           68,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1027390_thumb.png",
       "awakening_routes": [
@@ -3704,7 +3941,8 @@
           87,
           88,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1027280_thumb.png",
       "awakening_routes": [
@@ -3741,7 +3979,8 @@
           58,
           81,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1027250_thumb.png",
       "awakening_routes": [
@@ -3802,7 +4041,8 @@
           83,
           85,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1027210_thumb.png",
       "awakening_routes": [
@@ -3840,7 +4080,8 @@
           83,
           89,
           91,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1027190_thumb.png",
       "awakening_routes": [
@@ -4097,7 +4338,8 @@
           69,
           80,
           83,
-          86
+          86,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026940_thumb.png",
       "awakening_routes": [
@@ -4160,7 +4402,8 @@
           83,
           84,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026890_thumb.png",
       "awakening_routes": [
@@ -4315,7 +4558,8 @@
           65,
           79,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026810_thumb.png",
       "awakening_routes": [
@@ -4588,7 +4832,8 @@
           83,
           89,
           91,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026560_thumb.png",
       "awakening_routes": [
@@ -4623,7 +4868,8 @@
           83,
           87,
           89,
-          91
+          91,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026530_thumb.png",
       "awakening_routes": [
@@ -4900,7 +5146,8 @@
           67,
           87,
           89,
-          91
+          91,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026330_thumb.png",
       "awakening_routes": [
@@ -5019,7 +5266,8 @@
           68,
           76,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026280_thumb.png",
       "awakening_routes": [
@@ -5059,7 +5307,8 @@
           84,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026250_thumb.png",
       "awakening_routes": [
@@ -5363,7 +5612,8 @@
           68,
           79,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1026000_thumb.png",
       "awakening_routes": [
@@ -5428,7 +5678,8 @@
           79,
           80,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1025860_thumb.png",
       "awakening_routes": [
@@ -5547,7 +5798,8 @@
           72,
           83,
           87,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1025760_thumb.png",
       "awakening_routes": [
@@ -5584,7 +5836,8 @@
           83,
           84,
           87,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1025720_thumb.png",
       "awakening_routes": [
@@ -5780,7 +6033,8 @@
           88,
           89,
           90,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1025580_thumb.png",
       "awakening_routes": [
@@ -6179,7 +6433,8 @@
           70,
           84,
           87,
-          90
+          90,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1025330_thumb.png",
       "awakening_routes": [
@@ -6299,7 +6554,8 @@
           9,
           35,
           44,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1025230_thumb.png",
       "awakening_routes": [
@@ -7095,7 +7351,8 @@
           68,
           85,
           89,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024950_thumb.png",
       "awakening_routes": [
@@ -7192,7 +7449,8 @@
           79,
           80,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024850_thumb.png",
       "awakening_routes": [
@@ -7368,7 +7626,8 @@
           8,
           89,
           91,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024690_thumb.png",
       "awakening_routes": [
@@ -7400,7 +7659,8 @@
           83,
           85,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024650_thumb.png",
       "awakening_routes": [
@@ -7435,7 +7695,8 @@
           64,
           82,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024630_thumb.png",
       "awakening_routes": [
@@ -7466,7 +7727,8 @@
           64,
           82,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024600_thumb.png",
       "awakening_routes": [
@@ -7537,7 +7799,8 @@
           76,
           78,
           83,
-          90
+          90,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024500_thumb.png",
       "awakening_routes": [
@@ -7576,7 +7839,8 @@
           83,
           84,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024440_thumb.png",
       "awakening_routes": [
@@ -7675,7 +7939,8 @@
           68,
           76,
           87,
-          91
+          91,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024320_thumb.png",
       "awakening_routes": [
@@ -7744,7 +8009,8 @@
           48,
           50,
           68,
-          78
+          78,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024270_thumb.png",
       "awakening_routes": [
@@ -7908,7 +8174,8 @@
           28,
           55,
           86,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024130_thumb.png",
       "awakening_routes": [
@@ -8076,7 +8343,8 @@
           24,
           38,
           41,
-          43
+          43,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024040_thumb.png",
       "awakening_routes": [
@@ -8132,7 +8400,8 @@
           41,
           50,
           62,
-          71
+          71,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024030_thumb.png",
       "awakening_routes": [
@@ -8245,7 +8514,8 @@
           33,
           41,
           62,
-          68
+          68,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024010_thumb.png",
       "awakening_routes": [
@@ -8306,7 +8576,8 @@
           81,
           85,
           89,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1024000_thumb.png",
       "awakening_routes": [
@@ -9243,7 +9514,8 @@
           57,
           58,
           81,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1023630_thumb.png",
       "awakening_routes": [
@@ -9306,7 +9578,8 @@
           86,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1023610_thumb.png",
       "awakening_routes": [
@@ -9394,7 +9667,8 @@
           69,
           80,
           83,
-          86
+          86,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1023510_thumb.png",
       "awakening_routes": [
@@ -9418,7 +9692,7 @@
       "atk_max": 9680,
       "def_max": 4488,
       "hasDokkan": false,
-      "hasEza": false,
+      "hasEza": true,
       "hasSuperEza": false,
       "category_ids": [
           7,
@@ -9441,6 +9715,34 @@
           {
               "id": 4108,
               "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 7160,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7161,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7162,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7163,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7164,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7165,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7166,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []
@@ -9454,7 +9756,7 @@
       "atk_max": 9629,
       "def_max": 6483,
       "hasDokkan": false,
-      "hasEza": false,
+      "hasEza": true,
       "hasSuperEza": false,
       "category_ids": [
           9,
@@ -9471,13 +9773,42 @@
           83,
           84,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1023460_thumb.png",
       "awakening_routes": [
           {
               "id": 4105,
               "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 7153,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7154,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7155,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7156,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7157,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7158,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7159,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []
@@ -9679,7 +10010,8 @@
           61,
           68,
           70,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1023310_thumb.png",
       "awakening_routes": [
@@ -10278,7 +10610,8 @@
           57,
           58,
           81,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1023110_thumb.png",
       "awakening_routes": [
@@ -10369,7 +10702,8 @@
           31,
           50,
           68,
-          69
+          69,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1023030_thumb.png",
       "awakening_routes": [
@@ -10720,7 +11054,8 @@
           68,
           69,
           78,
-          83
+          83,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1022740_thumb.png",
       "awakening_routes": [
@@ -10898,7 +11233,8 @@
           68,
           74,
           76,
-          84
+          84,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1022650_thumb.png",
       "awakening_routes": [
@@ -11031,7 +11367,8 @@
           68,
           69,
           78,
-          80
+          80,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1022470_thumb.png",
       "awakening_routes": [
@@ -11067,7 +11404,8 @@
           85,
           89,
           90,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1022450_thumb.png",
       "awakening_routes": [
@@ -11099,7 +11437,8 @@
           83,
           84,
           85,
-          87
+          87,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1022410_thumb.png",
       "awakening_routes": [
@@ -11258,7 +11597,8 @@
           74,
           87,
           89,
-          93
+          93,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1022220_thumb.png",
       "awakening_routes": [
@@ -11377,7 +11717,8 @@
           28,
           29,
           57,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1022110_thumb.png",
       "awakening_routes": [
@@ -11620,7 +11961,8 @@
           61,
           68,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1021990_thumb.png",
       "awakening_routes": [
@@ -11650,7 +11992,8 @@
           61,
           68,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1021980_thumb.png",
       "awakening_routes": [
@@ -11712,7 +12055,9 @@
           68,
           72,
           84,
-          87
+          87,
+          95,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1021940_thumb.png",
       "awakening_routes": [
@@ -11746,7 +12091,8 @@
           80,
           84,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1021920_thumb.png",
       "awakening_routes": [
@@ -11804,7 +12150,8 @@
           58,
           65,
           79,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1021870_thumb.png",
       "awakening_routes": [
@@ -11935,7 +12282,7 @@
       "atk_max": 8209,
       "def_max": 4472,
       "hasDokkan": false,
-      "hasEza": false,
+      "hasEza": true,
       "hasSuperEza": false,
       "category_ids": [
           3,
@@ -11957,6 +12304,34 @@
           {
               "id": 3381,
               "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 7143,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7144,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7145,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7146,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7147,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7148,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7149,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []
@@ -12081,7 +12456,8 @@
           68,
           79,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1021690_thumb.png",
       "awakening_routes": [
@@ -12379,7 +12755,8 @@
           69,
           80,
           83,
-          86
+          86,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1021500_thumb.png",
       "awakening_routes": [
@@ -12442,7 +12819,8 @@
           86,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1021490_thumb.png",
       "awakening_routes": [
@@ -12680,7 +13058,8 @@
           72,
           83,
           87,
-          94
+          94,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1021390_thumb.png",
       "awakening_routes": [
@@ -12893,7 +13272,8 @@
           87,
           89,
           91,
-          93
+          93,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1021130_thumb.png",
       "awakening_routes": [
@@ -13192,7 +13572,8 @@
           80,
           83,
           84,
-          85
+          85,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1020990_thumb.png",
       "awakening_routes": [
@@ -13338,7 +13719,8 @@
           41,
           42,
           61,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1020910_thumb.png",
       "awakening_routes": [
@@ -13741,7 +14123,8 @@
           83,
           87,
           89,
-          91
+          91,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1020770_thumb.png",
       "awakening_routes": [
@@ -13956,7 +14339,8 @@
           84,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1020620_thumb.png",
       "awakening_routes": [
@@ -14041,7 +14425,8 @@
           24,
           44,
           68,
-          78
+          78,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1020590_thumb.png",
       "awakening_routes": [
@@ -14165,7 +14550,8 @@
           75,
           76,
           78,
-          91
+          91,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1020500_thumb.png",
       "awakening_routes": [
@@ -14421,7 +14807,8 @@
           84,
           87,
           88,
-          91
+          91,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1020330_thumb.png",
       "awakening_routes": [
@@ -14534,7 +14921,8 @@
           76,
           83,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1020210_thumb.png",
       "awakening_routes": [
@@ -14741,7 +15129,8 @@
           68,
           69,
           78,
-          80
+          80,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1020150_thumb.png",
       "awakening_routes": [
@@ -16436,7 +16825,8 @@
           68,
           79,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1019470_thumb.png",
       "awakening_routes": [
@@ -16498,7 +16888,8 @@
           68,
           79,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1019460_thumb.png",
       "awakening_routes": [
@@ -16676,7 +17067,8 @@
           62,
           69,
           77,
-          83
+          83,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1019340_thumb.png",
       "awakening_routes": [
@@ -16829,7 +17221,8 @@
           87,
           88,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1019260_thumb.png",
       "awakening_routes": [
@@ -17203,7 +17596,8 @@
           50,
           82,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1019060_thumb.png",
       "awakening_routes": [
@@ -17434,7 +17828,8 @@
           82,
           84,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1018870_thumb.png",
       "awakening_routes": [
@@ -17557,7 +17952,8 @@
           76,
           83,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1018790_thumb.png",
       "awakening_routes": [
@@ -17593,7 +17989,8 @@
           83,
           84,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1018740_thumb.png",
       "awakening_routes": [
@@ -17738,7 +18135,8 @@
           35,
           41,
           64,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1018680_thumb.png",
       "awakening_routes": [
@@ -17862,7 +18260,8 @@
           67,
           75,
           85,
-          88
+          88,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1018610_thumb.png",
       "awakening_routes": [
@@ -18163,7 +18562,8 @@
           79,
           80,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1018480_thumb.png",
       "awakening_routes": [
@@ -18367,7 +18767,8 @@
           26,
           42,
           61,
-          70
+          70,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1018360_thumb.png",
       "awakening_routes": [
@@ -18428,7 +18829,8 @@
           68,
           70,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1018340_thumb.png",
       "awakening_routes": [
@@ -18873,7 +19275,8 @@
           58,
           81,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1018150_thumb.png",
       "awakening_routes": [
@@ -18994,7 +19397,8 @@
           40,
           58,
           81,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1018100_thumb.png",
       "awakening_routes": [
@@ -19139,7 +19543,8 @@
           38,
           58,
           68,
-          76
+          76,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1017960_thumb.png",
       "awakening_routes": [
@@ -19466,7 +19871,8 @@
           77,
           78,
           82,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1017770_thumb.png",
       "awakening_routes": [
@@ -19737,7 +20143,8 @@
           68,
           74,
           76,
-          84
+          84,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1017660_thumb.png",
       "awakening_routes": [
@@ -20039,7 +20446,8 @@
           81,
           85,
           89,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1017490_thumb.png",
       "awakening_routes": [
@@ -20663,7 +21071,8 @@
           67,
           75,
           85,
-          88
+          88,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1017240_thumb.png",
       "awakening_routes": [
@@ -20723,7 +21132,8 @@
           68,
           69,
           78,
-          80
+          80,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1017220_thumb.png",
       "awakening_routes": [
@@ -20825,7 +21235,8 @@
           68,
           69,
           78,
-          80
+          80,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1017160_thumb.png",
       "awakening_routes": [
@@ -20888,7 +21299,8 @@
           83,
           85,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1017120_thumb.png",
       "awakening_routes": [
@@ -20954,7 +21366,8 @@
           87,
           88,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1017080_thumb.png",
       "awakening_routes": [
@@ -21097,7 +21510,8 @@
           19,
           26,
           28,
-          40
+          40,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1017020_thumb.png",
       "awakening_routes": [
@@ -21157,7 +21571,8 @@
           70,
           87,
           89,
-          93
+          93,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016900_thumb.png",
       "awakening_routes": [
@@ -21259,7 +21674,8 @@
           36,
           39,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016800_thumb.png",
       "awakening_routes": [
@@ -21677,7 +22093,8 @@
           82,
           83,
           90,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016630_thumb.png",
       "awakening_routes": [
@@ -21710,7 +22127,8 @@
           68,
           74,
           76,
-          84
+          84,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016610_thumb.png",
       "awakening_routes": [
@@ -21773,7 +22191,8 @@
           83,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016580_thumb.png",
       "awakening_routes": [
@@ -21839,7 +22258,8 @@
           80,
           83,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016570_thumb.png",
       "awakening_routes": [
@@ -21905,7 +22325,8 @@
           74,
           76,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016510_thumb.png",
       "awakening_routes": [
@@ -21966,7 +22387,8 @@
           69,
           80,
           83,
-          86
+          86,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016490_thumb.png",
       "awakening_routes": [
@@ -22030,7 +22452,8 @@
           86,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016460_thumb.png",
       "awakening_routes": [
@@ -22123,7 +22546,8 @@
           72,
           79,
           87,
-          89
+          89,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016440_thumb.png",
       "awakening_routes": [
@@ -22362,7 +22786,8 @@
           68,
           76,
           78,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016150_thumb.png",
       "awakening_routes": [
@@ -22396,7 +22821,8 @@
           76,
           84,
           87,
-          88
+          88,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016120_thumb.png",
       "awakening_routes": [
@@ -22572,7 +22998,8 @@
           68,
           84,
           87,
-          88
+          88,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1016050_thumb.png",
       "awakening_routes": [
@@ -22756,7 +23183,8 @@
           75,
           84,
           85,
-          88
+          88,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1015970_thumb.png",
       "awakening_routes": [
@@ -23035,7 +23463,8 @@
           35,
           40,
           62,
-          69
+          69,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1015840_thumb.png",
       "awakening_routes": [
@@ -23207,7 +23636,9 @@
           72,
           83,
           84,
-          87
+          87,
+          95,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1015770_thumb.png",
       "awakening_routes": [
@@ -23245,7 +23676,8 @@
           83,
           84,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1015750_thumb.png",
       "awakening_routes": [
@@ -23490,7 +23922,8 @@
           68,
           69,
           78,
-          83
+          83,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1015560_thumb.png",
       "awakening_routes": [
@@ -23529,7 +23962,8 @@
           82,
           84,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1015470_thumb.png",
       "awakening_routes": [
@@ -23642,7 +24076,8 @@
           22,
           37,
           62,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1015410_thumb.png",
       "awakening_routes": [
@@ -23733,7 +24168,8 @@
           37,
           67,
           68,
-          76
+          76,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1015310_thumb.png",
       "awakening_routes": [
@@ -23792,7 +24228,8 @@
           68,
           85,
           89,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1015290_thumb.png",
       "awakening_routes": [
@@ -24473,7 +24910,8 @@
           79,
           87,
           89,
-          91
+          91,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1015100_thumb.png",
       "awakening_routes": [
@@ -24590,7 +25028,8 @@
           17,
           31,
           38,
-          68
+          68,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1015020_thumb.png",
       "awakening_routes": [
@@ -24683,7 +25122,8 @@
           31,
           50,
           68,
-          69
+          69,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1014990_thumb.png",
       "awakening_routes": [
@@ -24905,7 +25345,8 @@
           76,
           78,
           80,
-          90
+          90,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1014820_thumb.png",
       "awakening_routes": [
@@ -25219,7 +25660,8 @@
           85,
           89,
           90,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1014680_thumb.png",
       "awakening_routes": [
@@ -25457,7 +25899,8 @@
           80,
           83,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1014490_thumb.png",
       "awakening_routes": [
@@ -25576,7 +26019,8 @@
           68,
           69,
           78,
-          80
+          80,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1014390_thumb.png",
       "awakening_routes": [
@@ -25702,7 +26146,8 @@
           48,
           68,
           73,
-          78
+          78,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1014330_thumb.png",
       "awakening_routes": [
@@ -26115,7 +26560,8 @@
           84,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1014130_thumb.png",
       "awakening_routes": [
@@ -26292,7 +26738,8 @@
           58,
           81,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1014040_thumb.png",
       "awakening_routes": [
@@ -26572,7 +27019,8 @@
           62,
           76,
           91,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1013880_thumb.png",
       "awakening_routes": [
@@ -26762,7 +27210,8 @@
           84,
           87,
           88,
-          91
+          91,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1013830_thumb.png",
       "awakening_routes": [
@@ -26880,7 +27329,8 @@
           79,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1013790_thumb.png",
       "awakening_routes": [
@@ -26992,7 +27442,8 @@
           81,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1013730_thumb.png",
       "awakening_routes": [
@@ -27146,7 +27597,8 @@
           84,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1013600_thumb.png",
       "awakening_routes": [
@@ -28072,7 +28524,8 @@
           83,
           89,
           91,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1013120_thumb.png",
       "awakening_routes": [
@@ -28134,7 +28587,8 @@
           83,
           87,
           89,
-          91
+          91,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1013110_thumb.png",
       "awakening_routes": [
@@ -28474,7 +28928,8 @@
           68,
           82,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1012990_thumb.png",
       "awakening_routes": [
@@ -28660,7 +29115,8 @@
           61,
           68,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1012780_thumb.png",
       "awakening_routes": [
@@ -28727,7 +29183,8 @@
           82,
           84,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1012760_thumb.png",
       "awakening_routes": [
@@ -28906,7 +29363,8 @@
           62,
           69,
           77,
-          83
+          83,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1012680_thumb.png",
       "awakening_routes": [
@@ -29395,7 +29853,8 @@
           75,
           76,
           78,
-          91
+          91,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1012030_thumb.png",
       "awakening_routes": [
@@ -29518,7 +29977,8 @@
           88,
           89,
           91,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1011900_thumb.png",
       "awakening_routes": [
@@ -29756,7 +30216,8 @@
           57,
           58,
           81,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1011710_thumb.png",
       "awakening_routes": [
@@ -29823,7 +30284,8 @@
           70,
           81,
           87,
-          89
+          89,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1011470_thumb.png",
       "awakening_routes": [
@@ -29971,7 +30433,8 @@
           83,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1011440_thumb.png",
       "awakening_routes": [
@@ -30067,7 +30530,8 @@
           87,
           89,
           91,
-          93
+          93,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1011390_thumb.png",
       "awakening_routes": [
@@ -30435,7 +30899,8 @@
           80,
           83,
           84,
-          85
+          85,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1011300_thumb.png",
       "awakening_routes": [
@@ -30555,7 +31020,8 @@
           58,
           81,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1011190_thumb.png",
       "awakening_routes": [
@@ -30754,7 +31220,8 @@
           28,
           82,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1011130_thumb.png",
       "awakening_routes": [
@@ -30851,7 +31318,8 @@
           68,
           74,
           89,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1011100_thumb.png",
       "awakening_routes": [
@@ -31189,7 +31657,8 @@
           35,
           41,
           64,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010980_thumb.png",
       "awakening_routes": [
@@ -31472,7 +31941,8 @@
           79,
           87,
           89,
-          91
+          91,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010890_thumb.png",
       "awakening_routes": [
@@ -31562,7 +32032,8 @@
           63,
           67,
           75,
-          85
+          85,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010850_thumb.png",
       "awakening_routes": [
@@ -31920,7 +32391,8 @@
           72,
           79,
           87,
-          89
+          89,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010770_thumb.png",
       "awakening_routes": [
@@ -31953,7 +32425,8 @@
           68,
           74,
           76,
-          84
+          84,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010750_thumb.png",
       "awakening_routes": [
@@ -32018,7 +32491,8 @@
           84,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010740_thumb.png",
       "awakening_routes": [
@@ -32055,7 +32529,8 @@
           84,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010730_thumb.png",
       "awakening_routes": [
@@ -32242,7 +32717,8 @@
           63,
           68,
           83,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010580_thumb.png",
       "awakening_routes": [
@@ -32304,7 +32780,8 @@
           83,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010570_thumb.png",
       "awakening_routes": [
@@ -32662,7 +33139,8 @@
           87,
           89,
           91,
-          93
+          93,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010410_thumb.png",
       "awakening_routes": [
@@ -33249,7 +33727,8 @@
           87,
           89,
           91,
-          93
+          93,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010060_thumb.png",
       "awakening_routes": [
@@ -33283,7 +33762,8 @@
           37,
           68,
           72,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010030_thumb.png",
       "awakening_routes": [
@@ -33343,7 +33823,8 @@
           72,
           79,
           87,
-          89
+          89,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1010020_thumb.png",
       "awakening_routes": [
@@ -33462,7 +33943,8 @@
           62,
           69,
           77,
-          83
+          83,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009970_thumb.png",
       "awakening_routes": [
@@ -33946,7 +34428,8 @@
           83,
           84,
           87,
-          90
+          90,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009890_thumb.png",
       "awakening_routes": [
@@ -34105,7 +34588,9 @@
           72,
           83,
           84,
-          87
+          87,
+          95,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009830_thumb.png",
       "awakening_routes": [
@@ -34166,7 +34651,8 @@
           83,
           85,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009790_thumb.png",
       "awakening_routes": [
@@ -34360,7 +34846,8 @@
           76,
           83,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009740_thumb.png",
       "awakening_routes": [
@@ -34422,7 +34909,8 @@
           76,
           83,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009730_thumb.png",
       "awakening_routes": [
@@ -34484,7 +34972,8 @@
           76,
           83,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009720_thumb.png",
       "awakening_routes": [
@@ -34548,7 +35037,8 @@
           83,
           84,
           87,
-          88
+          88,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009710_thumb.png",
       "awakening_routes": [
@@ -34808,7 +35298,8 @@
           76,
           84,
           87,
-          88
+          88,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009590_thumb.png",
       "awakening_routes": [
@@ -34873,7 +35364,8 @@
           87,
           88,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009580_thumb.png",
       "awakening_routes": [
@@ -34958,7 +35450,8 @@
           68,
           82,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009510_thumb.png",
       "awakening_routes": [
@@ -35026,7 +35519,8 @@
           87,
           89,
           91,
-          93
+          93,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009500_thumb.png",
       "awakening_routes": [
@@ -35154,7 +35648,8 @@
           83,
           84,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009430_thumb.png",
       "awakening_routes": [
@@ -35214,7 +35709,8 @@
           62,
           68,
           69,
-          78
+          78,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009370_thumb.png",
       "awakening_routes": [
@@ -35251,7 +35747,8 @@
           82,
           84,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009350_thumb.png",
       "awakening_routes": [
@@ -35539,7 +36036,8 @@
           69,
           86,
           89,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1009220_thumb.png",
       "awakening_routes": [
@@ -35857,7 +36355,8 @@
           79,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008940_thumb.png",
       "awakening_routes": [
@@ -35920,7 +36419,8 @@
           87,
           89,
           90,
-          93
+          93,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008930_thumb.png",
       "awakening_routes": [
@@ -35983,7 +36483,8 @@
           80,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008920_thumb.png",
       "awakening_routes": [
@@ -36171,7 +36672,8 @@
           64,
           82,
           90,
-          92
+          92,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008850_thumb.png",
       "awakening_routes": [
@@ -36338,7 +36840,8 @@
           76,
           78,
           83,
-          90
+          90,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008750_thumb.png",
       "awakening_routes": [
@@ -36403,7 +36906,8 @@
           76,
           78,
           83,
-          90
+          90,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008740_thumb.png",
       "awakening_routes": [
@@ -36618,7 +37122,8 @@
           83,
           84,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008620_thumb.png",
       "awakening_routes": [
@@ -36682,7 +37187,8 @@
           83,
           84,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008610_thumb.png",
       "awakening_routes": [
@@ -36923,7 +37429,8 @@
           68,
           76,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008550_thumb.png",
       "awakening_routes": [
@@ -37304,7 +37811,7 @@
       "def_max": 3488,
       "hasDokkan": false,
       "hasEza": true,
-      "hasSuperEza": false,
+      "hasSuperEza": true,
       "category_ids": [
           9,
           23,
@@ -37351,6 +37858,10 @@
           {
               "id": 2152,
               "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7175,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []
@@ -37380,7 +37891,8 @@
           86,
           87,
           89,
-          90
+          90,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008080_thumb.png",
       "awakening_routes": [
@@ -37437,7 +37949,8 @@
           29,
           35,
           37,
-          58
+          58,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008070_thumb.png",
       "awakening_routes": [
@@ -37497,7 +38010,8 @@
           70,
           81,
           87,
-          89
+          89,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1008030_thumb.png",
       "awakening_routes": [
@@ -37531,7 +38045,8 @@
           77,
           78,
           82,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1007980_thumb.png",
       "awakening_routes": [
@@ -37595,7 +38110,8 @@
           82,
           83,
           90,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1007970_thumb.png",
       "awakening_routes": [
@@ -37787,7 +38303,8 @@
           69,
           80,
           83,
-          86
+          86,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1007680_thumb.png",
       "awakening_routes": [
@@ -37974,7 +38491,8 @@
           76,
           78,
           83,
-          90
+          90,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1007390_thumb.png",
       "awakening_routes": [
@@ -38332,7 +38850,7 @@
       "def_max": 3575,
       "hasDokkan": false,
       "hasEza": true,
-      "hasSuperEza": false,
+      "hasSuperEza": true,
       "category_ids": [
           9,
           10,
@@ -38375,6 +38893,10 @@
           {
               "id": 2494,
               "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7174,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []
@@ -38396,7 +38918,8 @@
           36,
           38,
           68,
-          76
+          76,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1006770_thumb.png",
       "awakening_routes": [
@@ -39073,7 +39596,8 @@
           61,
           68,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1005740_thumb.png",
       "awakening_routes": [
@@ -39131,7 +39655,8 @@
           61,
           68,
           84,
-          87
+          87,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1005730_thumb.png",
       "awakening_routes": [
@@ -39192,7 +39717,8 @@
           68,
           79,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1005670_thumb.png",
       "awakening_routes": [
@@ -39254,7 +39780,8 @@
           68,
           79,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1005660_thumb.png",
       "awakening_routes": [
@@ -39311,7 +39838,8 @@
           58,
           68,
           89,
-          93
+          93,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1005580_thumb.png",
       "awakening_routes": [
@@ -39367,7 +39895,8 @@
           36,
           38,
           68,
-          76
+          76,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1005550_thumb.png",
       "awakening_routes": [
@@ -39541,7 +40070,8 @@
           57,
           58,
           81,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1005400_thumb.png",
       "awakening_routes": [
@@ -39774,7 +40304,8 @@
           62,
           69,
           77,
-          83
+          83,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1005300_thumb.png",
       "awakening_routes": [
@@ -39837,7 +40368,8 @@
           63,
           67,
           75,
-          85
+          85,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1005280_thumb.png",
       "awakening_routes": [
@@ -39956,7 +40488,8 @@
           80,
           84,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1005030_thumb.png",
       "awakening_routes": [
@@ -40080,7 +40613,8 @@
           62,
           69,
           77,
-          83
+          83,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1004880_thumb.png",
       "awakening_routes": [
@@ -40273,7 +40807,8 @@
           68,
           69,
           78,
-          83
+          83,
+          96
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1004250_thumb.png",
       "awakening_routes": [
@@ -40539,7 +41074,8 @@
           80,
           84,
           87,
-          89
+          89,
+          95
       ],
       "thumb": "..\/..\/img\/character\/thumb\/card_1003210_thumb.png",
       "awakening_routes": [
