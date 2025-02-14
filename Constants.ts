@@ -66,7 +66,7 @@ const Constants = {
     { id: 84, name: "Power Beyond Super Saiyan" } as CategoriasItem,
     { id: 60, name: "Giant Ape Power" } as CategoriasItem,
     { id: 20, name: "Full Power" } as CategoriasItem,
-    { id: 67, name: "Powerfull Combat" } as CategoriasItem,
+    { id: 67, name: "Powerfull Comeback" } as CategoriasItem,
     { id: 74, name: "Heavenly Events" } as CategoriasItem,
     { id: 22, name: "Representatives of Universe 7" } as CategoriasItem,
     { id: 7, name: "Resurrected Warriors" } as CategoriasItem,
