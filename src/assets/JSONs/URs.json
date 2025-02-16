@@ -1,5 +1,37 @@
 [
   {
+      "name": "Beerus",
+      "id": 1030830,
+      "rarity": 4,
+      "element": 10,
+      "hp_max": 8166,
+      "atk_max": 8506,
+      "def_max": 4565,
+      "hasDokkan": false,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          8,
+          16,
+          35,
+          37,
+          40,
+          47,
+          62,
+          69,
+          77,
+          96
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1030830_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 7224,
+              "type": "CardAwakeningRoute::Unawake"
+          }
+      ],
+      "card_skills": []
+  },
+  {
       "name": "M. Satan",
       "id": 1030730,
       "rarity": 4,
@@ -140,6 +172,82 @@
       "card_skills": []
   },
   {
+      "name": "Freezer (forme finale) (ange)",
+      "id": 1030520,
+      "rarity": 4,
+      "element": 22,
+      "hp_max": 8220,
+      "atk_max": 8540,
+      "def_max": 4090,
+      "hasDokkan": true,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          6,
+          7,
+          22,
+          23,
+          24,
+          44,
+          68,
+          75,
+          78,
+          83,
+          91,
+          96
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1030520_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 7203,
+              "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 7204,
+              "type": "CardAwakeningRoute::Dokkan"
+          }
+      ],
+      "card_skills": []
+  },
+  {
+      "name": "Vegeta Super Saiyan (ange)",
+      "id": 1030470,
+      "rarity": 4,
+      "element": 10,
+      "hp_max": 7515,
+      "atk_max": 8551,
+      "def_max": 4459,
+      "hasDokkan": true,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          1,
+          17,
+          29,
+          31,
+          36,
+          37,
+          44,
+          68,
+          76,
+          85,
+          87,
+          96
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1030470_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 7208,
+              "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 7209,
+              "type": "CardAwakeningRoute::Dokkan"
+          }
+      ],
+      "card_skills": []
+  },
+  {
       "name": "Son Goku Super Saiyan",
       "id": 1030420,
       "rarity": 4,
@@ -179,6 +287,50 @@
       "card_skills": []
   },
   {
+      "name": "Son Gohan Super Saiyan 2 (enfant)",
+      "id": 1030380,
+      "rarity": 4,
+      "element": 14,
+      "hp_max": 8130,
+      "atk_max": 8540,
+      "def_max": 4135,
+      "hasDokkan": true,
+      "hasEza": false,
+      "hasSuperEza": false,
+      "category_ids": [
+          5,
+          20,
+          30,
+          33,
+          38,
+          40,
+          45,
+          47,
+          55,
+          66,
+          81,
+          83,
+          84,
+          87,
+          89,
+          91,
+          93,
+          95
+      ],
+      "thumb": "..\/..\/img\/character\/thumb\/card_1030380_thumb.png",
+      "awakening_routes": [
+          {
+              "id": 7213,
+              "type": "CardAwakeningRoute::Unawake"
+          },
+          {
+              "id": 7214,
+              "type": "CardAwakeningRoute::Dokkan"
+          }
+      ],
+      "card_skills": []
+  },
+  {
       "name": "Son Goku Super Saiyan 3 (GT)",
       "id": 1030330,
       "rarity": 4,
@@ -193,6 +345,7 @@
           12,
           17,
           30,
+          48,
           60,
           65,
           72,
@@ -40358,7 +40511,7 @@
       "def_max": 3493,
       "hasDokkan": false,
       "hasEza": true,
-      "hasSuperEza": false,
+      "hasSuperEza": true,
       "category_ids": [
           1,
           29,
@@ -40404,6 +40557,10 @@
           {
               "id": 1933,
               "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7172,
+              "type": "CardAwakeningRoute::Optimal"
           }
       ],
       "card_skills": []
@@ -40418,7 +40575,7 @@
       "def_max": 3821,
       "hasDokkan": false,
       "hasEza": true,
-      "hasSuperEza": false,
+      "hasSuperEza": true,
       "category_ids": [
           16,
           23,
@@ -40458,6 +40615,10 @@
           },
           {
               "id": 1845,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7173,
               "type": "CardAwakeningRoute::Optimal"
           }
       ],
@@ -40663,7 +40824,7 @@
       "def_max": 5132,
       "hasDokkan": false,
       "hasEza": true,
-      "hasSuperEza": false,
+      "hasSuperEza": true,
       "category_ids": [
           7,
           20,
@@ -40714,6 +40875,10 @@
           },
           {
               "id": 1603,
+              "type": "CardAwakeningRoute::Optimal"
+          },
+          {
+              "id": 7237,
               "type": "CardAwakeningRoute::Optimal"
           }
       ],
