@@ -1,0 +1,59 @@
+<div class="container">
+  <form>
+    <div class="row">
+      <div class="col-md-4 mb-3">
+        <label for="attack" class="form-label custom-label">Attack</label>
+        <input class="form-control form-control-lg" id="attack" placeholder="0" [(ngModel)]="attack" name="attack" (input)="onInputChange($event)">
+      </div>
+      <div class="col-md-4 mb-3">
+        <label for="defense" class="form-label custom-label">Defense</label>
+        <input class="form-control form-control-lg" id="defense" placeholder="0" [(ngModel)]="defense" name="defense" (input)="onInputChange($event)">
+      </div>
+      <div class="col-md-4 mb-3">
+        <label for="damageReduction" class="form-label custom-label">Damage Reduction</label>
+        <input class="form-control form-control-lg" id="damageReduction" placeholder="0" [(ngModel)]="damageReduction" name="damageReduction" (input)="onInputChange($event)">
+      </div>
+    </div>
+    <div class="mb-3">
+      <label for="attackerClass" class="form-label custom-label">Attacker Type</label>
+      <select class="form-select" id="attackerType" [(ngModel)]="attackerType" name="attackerType" (change)="onInputChange($event)">
+        <option>AGL</option>
+        <option>TEQ</option>
+        <option>STR</option>
+        <option>PHY</option>
+        <option>INT</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="attackerClass" class="form-label custom-label">Attacker Class</label>
+      <select class="form-select" id="attackerClass" [(ngModel)]="attackerClass" name="attackerClass" (change)="onInputChange($event)">
+        <option>SUPER</option>
+        <option>EXTREME</option>
+      </select>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" id="passiveGuard" [(ngModel)]="passiveGuard" name="passiveGuard" (change)="onInputChange($event)">
+      <label class="form-check-label" for="passiveGuard">
+        Passive Guard
+      </label>
+    </div>
+    <div class="col-md-4 d-flex mt-3">
+      <button type="button" class="btn btn-success btn-lg btn-radius" (click)="calculateDefense()">CALCULATE</button>
+    </div>
+
+    <table class="table table-bordered mt-5 custom-table" id="tabla">
+      <thead>
+        <tr>
+          <th *ngFor="let header of cabecera">{{ header }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let color of colores; let i = index" [ngClass]="'row-color-' + color">
+          <th>{{ color }}</th>
+          <td *ngFor="let celda of data[i]">{{ celda }}</td>
+        </tr>
+      </tbody>
+    </table>
+
+  </form>
+</div>

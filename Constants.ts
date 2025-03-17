@@ -1,5 +1,6 @@
 import { CategoriasItem } from "./src/app/Interfaces/categories.interface";
 
+
 const Constants = {
   LRJSONPath: 'assets/JSONs/LRs.json',
   URJSONPath: 'assets/JSONs/URs.json',
@@ -104,6 +105,9 @@ const Constants = {
     { id: 96, name: "Successors" } as CategoriasItem,
 
   ] as CategoriasItem[],
+
+  SUPER : 'SUPER',
+  EXTREME : 'EXTREME',
 
   allEvents: [
    "Memorable Battles - Gogeta",

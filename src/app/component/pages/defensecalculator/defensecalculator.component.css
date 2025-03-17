@@ -1,0 +1,43 @@
+.custom-label {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+
+.form-check-label{
+  color: #ffffff;
+  font-size: 1.5rem;
+}
+
+.form-check-input{
+  margin-right: 10px;
+}
+.form-check {
+  display: flex;
+  align-items: center;
+}
+
+
+.custom-table th, .custom-table td {
+  color: #ffffff;
+  font-weight: normal;
+}
+
+.row-color-AGL {
+  background-color: rgba(122, 240, 255, 0.5);
+}
+
+.row-color-TEQ {
+  background-color: rgba(133, 255, 96, 0.5);
+}
+
+.row-color-INT {
+  background-color: rgba(251, 135, 255, 0.5);
+}
+
+.row-color-STR {
+  background-color: rgba(255, 107, 96, 0.5);
+}
+
+.row-color-PHY {
+  background-color: rgba(255, 209, 108, 0.5);
+}

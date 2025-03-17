@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { SixcategoriesComponent } from './component/pages/sixcategories/sixcategories.component';
 import { CharacterincategoryComponent } from './component/pages/characterincategory/characterincategory.component';
+import { DefensecalculatorComponent } from './component/pages/defensecalculator/defensecalculator.component';
 
 const routes: Routes = [
   {
@@ -17,7 +18,11 @@ const routes: Routes = [
     path: 'characterincategory',
     component: CharacterincategoryComponent
   },
-  // Puedes agregar otras rutas aquí
+  {
+    path: 'defensecalculator',
+    component: DefensecalculatorComponent
+  },
+
 ];
 
 @NgModule({
