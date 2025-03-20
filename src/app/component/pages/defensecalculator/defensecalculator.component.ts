@@ -12,9 +12,9 @@ export class DefensecalculatorComponent {
   cabecera = ['#', 'SUPER', 'EXTREME'];
   colores = ['AGL', 'TEQ', 'INT', 'STR', 'PHY'];
 
-  attack: number = 0;
-  defense: number = 0;
-  damageReduction: number = 0;
+  attack: string = '';
+  defense: string = '';
+  damageReduction: string = '';
   attackerType: string = 'AGL';
   attackerClass: string = 'SUPER';
   passiveGuard: boolean = false;
@@ -52,7 +52,11 @@ export class DefensecalculatorComponent {
     let resultadoString = '';
     let defenseData : DefenseData = this.getMultiplicadorTipo(defenseColor, attackerColor, clase);
 
-    resultado = ((this.attack * defenseData.multiplicador * 1.015 * (1 - this.damageReduction/100)) - this.defense) * (this.passiveGuard || defenseData.naturalGuard ? 0.5 : 1);
+    const attackNumber = this.attack === '' ? 0 : parseFloat(this.attack);
+    const defenseNumber = this.defense === '' ? 0 :parseFloat(this.defense);
+    const drNumber = this.damageReduction === '' ? 0 :parseFloat(this.damageReduction);
+
+    resultado = ((attackNumber * defenseData.multiplicador * 1.015 * (1 - drNumber/100)) - defenseNumber) * (this.passiveGuard || defenseData.naturalGuard ? 0.5 : 1);
 
     //CAMBIAMOS EL FORMATO
     if(resultado <= 0){
@@ -69,7 +73,6 @@ export class DefensecalculatorComponent {
 
     let defenseData: DefenseData = {} as DefenseData;
 
-    debugger
     switch (attackerColor) {
       case 'AGL':
         switch (defenseColor) {
