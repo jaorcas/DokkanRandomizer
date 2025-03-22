@@ -41282,5 +41282,38 @@
           }
       ],
       "card_skills": []
+  },
+  {
+    "name": "Goku Kid",
+    "rarity": 4,
+    "hasDokkan": false,
+    "hasEza": true,
+    "hasSuperEza": true,
+    "category_ids": [
+        34,
+        89,
+        33,
+        25,
+        11,
+        17,
+        30,
+        87
+    ],
+    "thumb": "..\/..\/img\/character\/thumb\/card_1031080_thumb.png"
+  },
+  {
+    "name": "Chichi",
+    "rarity": 4,
+    "hasDokkan": false,
+    "hasEza": true,
+    "hasSuperEza": true,
+    "category_ids": [
+        33,
+        34,
+        51,
+        87,
+        89
+    ],
+    "thumb": "..\/..\/img\/character\/thumb\/card_1031100_thumb.png"
   }
 ]
